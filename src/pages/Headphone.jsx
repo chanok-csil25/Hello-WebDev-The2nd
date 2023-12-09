@@ -1,5 +1,5 @@
 import ProductDetail from '../components/ProductDetail'
-import Head from '../assets/product/HeadPhone.png'
+import Head from '../assets/product/Headphone.png'
 
 function Headphone() {
   return (
