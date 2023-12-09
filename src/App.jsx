@@ -4,7 +4,7 @@ import Home from './pages/Home';
 import Search from './pages/Search';
 import Payment from './pages/Payment';
 import Navbar from './components/Navbar';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 import Stationary from './pages/Stationary';
 import Mobile from './pages/Mobile';
 import PencilYellow from './pages/PencilYellow';
